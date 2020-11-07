@@ -14,11 +14,11 @@ What they will awake, is far more terrifying, atrocious, or ungodly than anythin
 
 [![Voidout - Gameplay Trailer](https://github.com/AlejandroFraga/voidout/blob/main/images/RxP5DFmDYD4.png?raw=true)](https://www.youtube.com/embed/RxP5DFmDYD4)
 
-![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/UUo5vT.png?raw=true)
+![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/UUo5vT.jpg?raw=true)
 
-![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/zgcqis.png?raw=true)
+![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/zgcqis.jpg?raw=true)
 
-![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/tSrsaG.png?raw=true)
+![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/tSrsaG.jpg?raw=true)
 
 ### The people who have created this dark tale are:
 
