@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{ad90944c-4662-4cd4-b8be-0e2495a7965b}">
+		<property name="assetPath">
+			<value>gun_rifle_shot_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4783541666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a84972b0-f733-485f-8a07-a24a96ce9bcd}</destination>
+		</relationship>
+	</object>
+</objects>

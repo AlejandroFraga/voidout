@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{1f398d2a-10a1-4255-b139-2ae743d223eb}">
+		<property name="assetPath">
+			<value>VOIDOUT D&amp;B-Andrés-NIVEL 3.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>129.03222916666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a84972b0-f733-485f-8a07-a24a96ce9bcd}</destination>
+		</relationship>
+	</object>
+</objects>

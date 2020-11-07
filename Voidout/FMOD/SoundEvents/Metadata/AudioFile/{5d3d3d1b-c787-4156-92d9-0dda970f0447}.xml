@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{5d3d3d1b-c787-4156-92d9-0dda970f0447}">
+		<property name="assetPath">
+			<value>VOID OUT COMBAT Lvl 3 - Juan Mena.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>121.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a84972b0-f733-485f-8a07-a24a96ce9bcd}</destination>
+		</relationship>
+	</object>
+</objects>

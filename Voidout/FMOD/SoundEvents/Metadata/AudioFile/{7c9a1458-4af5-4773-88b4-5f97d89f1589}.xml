@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{7c9a1458-4af5-4773-88b4-5f97d89f1589}">
+		<property name="assetPath">
+			<value>shadowDash1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0514285714285714</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a84972b0-f733-485f-8a07-a24a96ce9bcd}</destination>
+		</relationship>
+	</object>
+</objects>

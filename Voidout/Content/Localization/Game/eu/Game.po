@@ -1,0 +1,477 @@
+﻿# Game Basque translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2020-05-26 01:10\n"
+"PO-Revision-Date: 2020-05-26 01:10\n"
+"Language-Team: \n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	05C91982428862B75A3EB8BEF30E144D
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Back.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Back.Text
+msgctxt ",05C91982428862B75A3EB8BEF30E144D"
+msgid "BACK"
+msgstr "ITZULI"
+
+#. Key:	11815B524A922900467ADAA9A9CA4BA5
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(2).resolutions
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(2).resolutions
+msgctxt ",11815B524A922900467ADAA9A9CA4BA5"
+msgid "2560 X 1440"
+msgstr "2560 X 1440"
+
+#. Key:	1294A34548C310399968168B78E2D360
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.displayModes(2).displayModes
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.displayModes(2).displayModes
+msgctxt ",1294A34548C310399968168B78E2D360"
+msgid "WINDOW"
+msgstr "LEIHOA"
+
+#. Key:	12C4C161426E8603110DFAB8EE3AD470
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Back.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Back.Text
+msgctxt ",12C4C161426E8603110DFAB8EE3AD470"
+msgid "BACK"
+msgstr "ITZULI"
+
+#. Key:	1544E4AE418514751BD9BBB95F177237
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Sound_Volume_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Sound_Volume_Text.Text
+msgctxt ",1544E4AE418514751BD9BBB95F177237"
+msgid "SOUND VOLUME"
+msgstr "SOINU BOLUMENA"
+
+#. Key:	16E7441C411B7158D859BA9C73D936D8
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Music_Volume_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Music_Volume_Text.Text
+msgctxt ",16E7441C411B7158D859BA9C73D936D8"
+msgid "MUSIC VOLUME"
+msgstr "MUSIKA BOLUMENA"
+
+#. Key:	18A76DD6433734F670C6859174946260
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Controls_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Controls_text.Text
+msgctxt ",18A76DD6433734F670C6859174946260"
+msgid "CONTROLS"
+msgstr "KONTROLAK"
+
+#. Key:	1C851EC542ABDDC640771381640E4694
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Controller.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Controller.Text
+msgctxt ",1C851EC542ABDDC640771381640E4694"
+msgid "CONTROLLER SCHEME"
+msgstr "AGINTE KONTROLAK"
+
+#. Key:	1E3344CA4D01840583268EB5F53A1942
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(0).resolutions
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(0).resolutions
+msgctxt ",1E3344CA4D01840583268EB5F53A1942"
+msgid "1280 X 720"
+msgstr "1280 X 720"
+
+#. Key:	1FB74B254C65278450D77C93D9EDE425
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Master_Volume.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Master_Volume.Text
+msgctxt ",1FB74B254C65278450D77C93D9EDE425"
+msgid "MASTER VOLUME"
+msgstr "BOLUMEN OROKORRA"
+
+#. Key:	2245A7984470DDCBBAE71595E54514D2
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Language_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Language_Text.Text
+msgctxt ",2245A7984470DDCBBAE71595E54514D2"
+msgid "LANGUAGE"
+msgstr "HIZKUNTZA"
+
+#. Key:	2354B5E6487A2054C17121BBA24D9BC3
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Display_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Display_Text.Text
+msgctxt ",2354B5E6487A2054C17121BBA24D9BC3"
+msgid "DISPLAY"
+msgstr "PANTAILA"
+
+#. Key:	27FDB0DA4C0F681D856BB39CAE438CD2
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Display_Mode_Value.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Display_Mode_Value.Text
+msgctxt ",27FDB0DA4C0F681D856BB39CAE438CD2"
+msgid "BORDERLESS WINDOW"
+msgstr "ERTZIK GABEKO LEIHOA"
+
+#. Key:	29031A884E15AB41203571848304F7D4
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(4).languages
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(4).languages
+msgctxt ",29031A884E15AB41203571848304F7D4"
+msgid "CATALÀ"
+msgstr "CATALÀ"
+
+#. Key:	29D6E5A64F9151EC8A14C7B0775AE064
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Select.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Select.Text
+msgctxt ",29D6E5A64F9151EC8A14C7B0775AE064"
+msgid "SELECT"
+msgstr "AUKERATU"
+
+#. Key:	2C8690EB41569D88EA5E4AA6002DF2F3
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(1).languages
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(1).languages
+msgctxt ",2C8690EB41569D88EA5E4AA6002DF2F3"
+msgid "ESPAÑOL"
+msgstr "ESPAÑOL"
+
+#. Key:	2CC53D2048C4E49E43E34D968E88E45A
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Controls_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Controls_Text.Text
+msgctxt ",2CC53D2048C4E49E43E34D968E88E45A"
+msgid "CONTROLS"
+msgstr "KONTROLAK"
+
+#. Key:	3A74298F4D16C66E021C42ABDCBA21A9
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Master_Volume_Value.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Master_Volume_Value.Text
+msgctxt ",3A74298F4D16C66E021C42ABDCBA21A9"
+msgid "100"
+msgstr "100"
+
+#. Key:	3DAF35D64643EE3730931B94C5DB75D2
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Display_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Display_text.Text
+msgctxt ",3DAF35D64643EE3730931B94C5DB75D2"
+msgid "DISPLAY"
+msgstr "PANTAILA"
+
+#. Key:	43BF7D1247E7D8FD36B21CBCF2342941
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.QuitText_2.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.QuitText_2.Text
+msgctxt ",43BF7D1247E7D8FD36B21CBCF2342941"
+msgid "QUIT"
+msgstr "IRTEN"
+
+#. Key:	46CDA6A04BB342FB8310648F519E0E64
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_67.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_67.Text
+msgctxt ",46CDA6A04BB342FB8310648F519E0E64"
+msgid "Thank you for playing the VOIDOUT demo!"
+msgstr "Eskerrik asko VOIDOUT-era jolasteagatik!"
+
+#. Key:	55732B5C4F2DC7D9FBB768BFD2C5B2BC
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Language_Select.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Language_Select.Text
+msgctxt ",55732B5C4F2DC7D9FBB768BFD2C5B2BC"
+msgid "ENGLISH"
+msgstr "PANTAILA OSOA"
+
+#. Key:	5A1A3C114025D52118B351A185063FC9
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Display_Mode_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Display_Mode_Text.Text
+msgctxt ",5A1A3C114025D52118B351A185063FC9"
+msgid "DISPLAY MODE"
+msgstr "PANTILA-MODUA"
+
+#. Key:	6038B8C0454D10B0F453E0ADDF8E9B5E
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Sound_Volume.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Sound_Volume.Text
+msgctxt ",6038B8C0454D10B0F453E0ADDF8E9B5E"
+msgid "SOUND VOLUME"
+msgstr "SOINU BOLUMENA"
+
+#. Key:	60AA5A4C49ADA55DEAFA2EA326788BB4
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Sound_Volume_Value.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Sound_Volume_Value.Text
+msgctxt ",60AA5A4C49ADA55DEAFA2EA326788BB4"
+msgid "100"
+msgstr "100"
+
+#. Key:	616A959E43C601D6E18BDABF27D41F5E
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_4.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",616A959E43C601D6E18BDABF27D41F5E"
+msgid "@voidoutgame_"
+msgstr "@voidoutgame_"
+
+#. Key:	6AA55F4547B8A756144841A61C5F215B
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.DMode.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.DMode.Text
+msgctxt ",6AA55F4547B8A756144841A61C5F215B"
+msgid "DISPLAY MODE"
+msgstr "PANTILA-MODUA"
+
+#. Key:	706EF5C143C66A96A138A1B72B7E509F
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Select.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Select.Text
+msgctxt ",706EF5C143C66A96A138A1B72B7E509F"
+msgid "SELECT"
+msgstr "AUKERATU"
+
+#. Key:	709902524F23E66919EE138B2D62440D
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(3).resolutions
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(3).resolutions
+msgctxt ",709902524F23E66919EE138B2D62440D"
+msgid "3840 X 2160"
+msgstr "3840 X 2160"
+
+#. Key:	70FB3C204608DB655EEA81B999488ADD
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Vibration_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Vibration_Text.Text
+msgctxt ",70FB3C204608DB655EEA81B999488ADD"
+msgid "VIBRATION"
+msgstr "BIBRAZIOA"
+
+#. Key:	7134049F4CD9FC52F79BBEBDB9B7733A
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(2).languages
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(2).languages
+msgctxt ",7134049F4CD9FC52F79BBEBDB9B7733A"
+msgid "GALEGO"
+msgstr "GALEGO"
+
+#. Key:	73F924684FC289F867273E87F05F2900
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(1).resolutions
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.resolutions(1).resolutions
+msgctxt ",73F924684FC289F867273E87F05F2900"
+msgid "1920 X 1080"
+msgstr "1920 X 1080"
+
+#. Key:	7C2F9A40478DCF0D582236AC544E95AA
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Game_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Game_Text.Text
+msgctxt ",7C2F9A40478DCF0D582236AC544E95AA"
+msgid "GAME"
+msgstr "JOKOA"
+
+#. Key:	7F82671C4945EEC26CEE408FFDA5054A
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(0).languages
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(0).languages
+msgctxt ",7F82671C4945EEC26CEE408FFDA5054A"
+msgid "ENGLISH"
+msgstr "ENGLISH"
+
+#. Key:	8202604A40448C31040773B34AB8233F
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.VSync.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.VSync.Text
+msgctxt ",8202604A40448C31040773B34AB8233F"
+msgid "V-SYNC"
+msgstr "SINKRONIZAZIO BERTIKALA"
+
+#. Key:	839CBA214AE33E10C8F08E94FCF329CB
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.DMode_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.DMode_text.Text
+msgctxt ",839CBA214AE33E10C8F08E94FCF329CB"
+msgid "BORDERLESS WINDOW"
+msgstr "ERTZIK GABEKO LEIHOA"
+
+#. Key:	86CC5A2640D58D8DA31DCE9CFC2F5DD1
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Controller.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Controller.Text
+msgctxt ",86CC5A2640D58D8DA31DCE9CFC2F5DD1"
+msgid "CONTROLLER SCHEME"
+msgstr "AGINTE KONTROLAK"
+
+#. Key:	9063E8E8429D1C63FCFD56BB8E2291D5
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(3).languages
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.languages(3).languages
+msgctxt ",9063E8E8429D1C63FCFD56BB8E2291D5"
+msgid "EUSKERA"
+msgstr "EUSKERA"
+
+#. Key:	9718F41B4903436E519E51832CC114F7
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Bingings_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Bingings_text.Text
+msgctxt ",9718F41B4903436E519E51832CC114F7"
+msgid "KEY BINDINGS"
+msgstr "PC KONTROLAK"
+
+#. Key:	9ABA80E74261D9EAED7A6A9BDBD44D7E
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_84.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_84.Text
+msgctxt ",9ABA80E74261D9EAED7A6A9BDBD44D7E"
+msgid "PLAY AGAIN"
+msgstr "BERRIRO JOLASTU"
+
+#. Key:	9AEC67714916B68079A692963D0E6AAE
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Aim_assist.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Aim_assist.Text
+msgctxt ",9AEC67714916B68079A692963D0E6AAE"
+msgid "AIM ASSIST"
+msgstr "APUNTATZEKO LAGUNTZA"
+
+#. Key:	9D56C72447A75A63961689A2DF670CEA
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Language.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Language.Text
+msgctxt ",9D56C72447A75A63961689A2DF670CEA"
+msgid "LANGUAGE"
+msgstr "HIZKUNTZA"
+
+#. Key:	9FC2F8AD4DC9A4DD95BA2CBD9EDF4421
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Bingings_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Bingings_text.Text
+msgctxt ",9FC2F8AD4DC9A4DD95BA2CBD9EDF4421"
+msgid "KEY BINDINGS"
+msgstr "PC KONTROLAK"
+
+#. Key:	A080A6104D260122D3FC5F9FD38BEB18
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Resolution.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Resolution.Text
+msgctxt ",A080A6104D260122D3FC5F9FD38BEB18"
+msgid "RESOLUTION"
+msgstr "PANTAILA-ERABAKIA"
+
+#. Key:	A17AE8D245C6DD328DF5298258F46A10
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_6.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",A17AE8D245C6DD328DF5298258F46A10"
+msgid "Follow us on: "
+msgstr "Jarrai iezaguzu:"
+
+#. Key:	A5AACD1644569A660E666FA92DC6AC01
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Game_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Game_text.Text
+msgctxt ",A5AACD1644569A660E666FA92DC6AC01"
+msgid "GAME"
+msgstr "JOKOA"
+
+#. Key:	A864E6304E601CDD5C062DB109E6112C
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Aim_Assist_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Aim_Assist_Text.Text
+msgctxt ",A864E6304E601CDD5C062DB109E6112C"
+msgid "AIM ASSIST"
+msgstr "APUNTATZEKO LAGUNTZA"
+
+#. Key:	AEB3704D4B05F5AFC2EB7990676E05FC
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.VSync_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.VSync_Text.Text
+msgctxt ",AEB3704D4B05F5AFC2EB7990676E05FC"
+msgid "V-SYNC"
+msgstr "SINKRONIZAZIO BERTIKALA"
+
+#. Key:	B111334242EB574A637B7A82A1412113
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Audio_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Top_Box_Audio_Text.Text
+msgctxt ",B111334242EB574A637B7A82A1412113"
+msgid "AUDIO"
+msgstr "AUDIOA"
+
+#. Key:	B584CEEE4B9CA361813D83A83D7A8980
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.displayModes(1).displayModes
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.displayModes(1).displayModes
+msgctxt ",B584CEEE4B9CA361813D83A83D7A8980"
+msgid "BORDERLESS WINDOW"
+msgstr "ERTZIK GABEKO LEIHOA"
+
+#. Key:	B6037C5F40BF07D5A4DFFB93063D083B
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Master_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Master_text.Text
+msgctxt ",B6037C5F40BF07D5A4DFFB93063D083B"
+msgid "100"
+msgstr "100"
+
+#. Key:	BBD74C91406EB70E5D4B829AFE7D005E
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Brightness.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Brightness.Text
+msgctxt ",BBD74C91406EB70E5D4B829AFE7D005E"
+msgid "BRIGHTNESS"
+msgstr "DISTIRA"
+
+#. Key:	BE00A2E3453138F60CE7ECB025B59F6D
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Resolution_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Resolution_text.Text
+msgctxt ",BE00A2E3453138F60CE7ECB025B59F6D"
+msgid "1920 x 1080"
+msgstr "1920 X 1080"
+
+#. Key:	C77556FC400542E5441E638EAD10E51C
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Vibration.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Vibration.Text
+msgctxt ",C77556FC400542E5441E638EAD10E51C"
+msgid "VIBRATION"
+msgstr "BIBRAZIOA"
+
+#. Key:	CAF4A4CF41DB5136A2B0EAB967B7C612
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.Paused.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.Paused.Text
+msgctxt ",CAF4A4CF41DB5136A2B0EAB967B7C612"
+msgid "PAUSED"
+msgstr "ETEN"
+
+#. Key:	CF38C213484704501F26168428B606F1
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.RestartText.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.RestartText.Text
+msgctxt ",CF38C213484704501F26168428B606F1"
+msgid "RESTART"
+msgstr "BERRABIARAZTU"
+
+#. Key:	D9DA4F0C4D5456986E97BB9D18258542
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.displayModes(0).displayModes
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.Default__USWG_StartMenu_C.displayModes(0).displayModes
+msgctxt ",D9DA4F0C4D5456986E97BB9D18258542"
+msgid "FULLSCREEN"
+msgstr "PANTAILA OSOA"
+
+#. Key:	DCD44D194B90AA83DCAC778C52ACE064
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_EndMenu.USWG_EndMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",DCD44D194B90AA83DCAC778C52ACE064"
+msgid "QUIT"
+msgstr "IRTEN"
+
+#. Key:	DD87A2B74371A583D51857A2746B44EA
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Audio_text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Audio_text.Text
+msgctxt ",DD87A2B74371A583D51857A2746B44EA"
+msgid "AUDIO"
+msgstr "AUDIOA"
+
+#. Key:	E5E2A3E84BDCAF73317723BA147AA2BD
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.ResumeText.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.ResumeText.Text
+msgctxt ",E5E2A3E84BDCAF73317723BA147AA2BD"
+msgid "RESUME"
+msgstr "JARRAITU"
+
+#. Key:	EAD29FF84DF5D534E00D46AABBA67F7B
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Brightness_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Brightness_Text.Text
+msgctxt ",EAD29FF84DF5D534E00D46AABBA67F7B"
+msgid "BRIGHTNESS"
+msgstr "DISTIRA"
+
+#. Key:	EB8BFA3642904CBAB3BB05945A098B23
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Music_Volume_Value.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Music_Volume_Value.Text
+msgctxt ",EB8BFA3642904CBAB3BB05945A098B23"
+msgid "100"
+msgstr "100"
+
+#. Key:	F01750A14BB961891A7577BFFE583DE4
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Resolution_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Resolution_Text.Text
+msgctxt ",F01750A14BB961891A7577BFFE583DE4"
+msgid "RESOLUTION"
+msgstr "PANTAILA-ERABAKIA"
+
+#. Key:	F4E85A26457124595609C6867FDB816A
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Music_Volume.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_Settings.USWG_Settings_C:WidgetTree.Music_Volume.Text
+msgctxt ",F4E85A26457124595609C6867FDB816A"
+msgid "MUSIC VOLUME"
+msgstr "MUSIKA BOLUMENA"
+
+#. Key:	F63082394533A0C70279799EEA89C858
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Master_Volume_Text.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_StartMenu.USWG_StartMenu_C:WidgetTree.Master_Volume_Text.Text
+msgctxt ",F63082394533A0C70279799EEA89C858"
+msgid "MASTER VOLUME"
+msgstr "BOLUMEN OROKORRA"
+
+#. Key:	FCFF5621434CCCCDF13774B513300E36
+#. SourceLocation:	/Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.CheckpointText.Text
+#: /Game/Blueprints/UserWidget/Menu/USWG_PauseMenu.USWG_PauseMenu_C:WidgetTree.CheckpointText.Text
+msgctxt ",FCFF5621434CCCCDF13774B513300E36"
+msgid "CHECKPOINT"
+msgstr "KONTROL PUNTUA"
+

@@ -1,0 +1,5 @@
+{97c29241-c5d0-4a05-bb1f-ab05f7d3ac2b} bank:/BSO
+{dd32039a-9e16-417b-aab4-82f189819b44} bank:/Master
+{452f234e-ef6d-0d39-2cfd-080f78729ddc} bank:/Master.strings
+{14dcd781-11d7-4b44-800e-898c50358acb} bus:/
+{b4ce8f78-8b09-4f3f-98a6-75c96044efa8} bus:/Reverb

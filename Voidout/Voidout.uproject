@@ -1,0 +1,71 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3486905D-4E2F-5F7D-8633-E9B7E40E8BA7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Voidout",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule",
+				"UMG",
+				"CoreUObject"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "TcpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"AllDesktop"
+	]
+}
