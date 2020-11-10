@@ -2,7 +2,13 @@
 
 Voidout is the Final Master Project we made for the [Master in Video Game Development](http://www.videojuegos-ucm.es/) by the [Complutense University of Madrid](https://www.ucm.es/english).
 
+We are Loopgang Studios. We started as 16 students from the Master, and people from other Masters gave us a hand. They helped us with the music, the animations, the concept art... So, finally, over 30 persons were involved in the development of this project.
+
 We built it from zero using [Unreal Entinge 4](https://www.unrealengine.com/en-US/), C++ and Blueprints.
+
+The version control was made with [Perforce](https://www.perforce.com).
+
+The final product (v1.0.0 at 14/07/2020) can be downloaded and played for free on [our itch.io webpage](https://loopgang-studios.itch.io/voidout).
 
 ## Table of contents
 
@@ -48,5 +54,3 @@ Inside the Voidout/Content/Movies, the startmenu-chroma.zip has to be unzipped o
 [![Voidout Twitter](https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png)](https://twitter.com/VoidoutGame)
 [![Voidout Instragram](https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=32)](https://www.instagram.com/voidoutgame_/?hl=es)
 [![Voidout Itch.io](https://icon-icons.com/icons2/2389/PNG/32/itch_io_logo_icon_145157.png)](https://loopgang-studios.itch.io/voidout)
-
-
