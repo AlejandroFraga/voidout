@@ -8,7 +8,7 @@ We built it from zero using [Unreal Entinge 4](https://www.unrealengine.com/en-U
 
 The version control was made with [Perforce](https://www.perforce.com).
 
-The final product (v1.0.0 at 14/07/2020) can be downloaded and played for free on [our itch.io webpage](https://loopgang-studios.itch.io/voidout).
+The final product (v1.0.0 at 14/07/2020) can be downloaded and played for free on our [itch.io](https://loopgang-studios.itch.io/voidout) webpage.
 
 ## Table of contents
 
@@ -32,17 +32,17 @@ What they will awake, is far more terrifying, atrocious, or ungodly than anythin
 
 ### May darkness destroy everthing at the speed of light!
 
-[![Voidout - Gameplay Trailer](https://github.com/AlejandroFraga/voidout/blob/main/images/RxP5DFmDYD4.png?raw=true)](https://www.youtube.com/embed/RxP5DFmDYD4)
+[<img src="https://github.com/AlejandroFraga/voidout/blob/main/images/RxP5DFmDYD4.png" width="720">](https://www.youtube.com/embed/RxP5DFmDYD4)
 
-![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/UUo5vT.jpg?raw=true)
-
-![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/zgcqis.jpg?raw=true)
-
-![Voidout Credits](https://github.com/AlejandroFraga/voidout/blob/main/images/tSrsaG.jpg?raw=true)
+<img src="https://github.com/AlejandroFraga/voidout/blob/main/images/UUo5vT.jpg" width="720"/>
+ 
+<img src="https://github.com/AlejandroFraga/voidout/blob/main/images/zgcqis.jpg" width="720"/>
+ 
+<img src="https://github.com/AlejandroFraga/voidout/blob/main/images/tSrsaG.jpg" width="720"/>
 
 ### The people who have created this dark tale are
 
-![Voidout credits](https://github.com/AlejandroFraga/voidout/blob/main/images/4zf8iQ.png?raw=true)
+<img src="https://github.com/AlejandroFraga/voidout/blob/main/images/4zf8iQ.png" width="720"/>
 
  
 ## Before opening the project
